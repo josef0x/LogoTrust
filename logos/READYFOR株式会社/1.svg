@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>READYFOR</title>
+    <defs>
+        <path id="s"
+            d="M54.67,36.04c.56,5.28-5.22,8.15-8.85,6.59-3.08-1.32-3.85-7.59-1.16-9.95,2.99-2.63,9.56-.83,10.01,3.37Zm-7.65,14.95c-5.68,1.78-8,19.03-4.57,25.46,3.49,6.54,20.61,7.51,21.15,.1,.94-12.73-9.57-27.76-16.58-25.56Zm26.65,23.22c.43,3.7,3.24,5.84,6.63,2.71,8.5-7.85,12.33-22.24,8.77-34.08-4.4-14.64-13.94-23.21-28.22-24.56-3.57-.34-4.77,1.39-2.33,3.83,2.43,2.43,10.88,5.37,4.92,18.55-1.06,2.36-2.07,5.25,2.4,11.12,2.75,3.62,6.11,7.59,7.84,22.43ZM26.08,22.13c-6.97,2.52-13.97,13.27-15.36,19.4-3.92,17.27,3.08,32.5,12.78,35.7,8,2.64,11.57-23.96,11.61-33.78,.07-17.48-2.07-23.83-9.02-21.31Z" />
+        <radialGradient id="g1" cx=".6" cy="-.05" r=".55">
+            <stop offset="0" stop-color="#FE45C9" stop-opacity="1" />
+            <stop offset=".5" stop-color="#FE45C9" stop-opacity=".75" />
+            <stop offset="1" stop-color="#FE45C9" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="g2" cx="-.1" cy=".8" r=".5">
+            <stop offset="0" stop-color="#FF7F80" stop-opacity="1" />
+            <stop offset=".5" stop-color="#FF7F80" stop-opacity=".7" />
+            <stop offset="1" stop-color="#FF7F80" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="g3" cx=".35" cy=".4" r=".45">
+            <stop offset="0" stop-color="#FA50A3" stop-opacity=".8" />
+            <stop offset=".5" stop-color="#FA50A3" stop-opacity=".5" />
+            <stop offset="1" stop-color="#FA50A3" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="g4" cx=".3" cy=".6" r=".5">
+            <stop offset="0" stop-color="#FE72A8" stop-opacity=".8" />
+            <stop offset=".2" stop-color="#FE72A8" stop-opacity=".6" />
+            <stop offset="1" stop-color="#FE72A8" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="g5" cx=".4" cy="1" r=".5">
+            <stop offset="0" stop-color="#FF917E" stop-opacity=".9" />
+            <stop offset="0.4" stop-color="#FF917E" stop-opacity=".8" />
+            <stop offset="1" stop-color="#FF917E" stop-opacity=".0" />
+        </radialGradient>
+        <radialGradient id="g6" cx="1" cy="1.1" r=".55">
+            <stop offset="0" stop-color="#FFAFC6" stop-opacity=".9" />
+            <stop offset=".3" stop-color="#FFAFC6" stop-opacity=".8" />
+            <stop offset="1" stop-color="#FFAFC6" stop-opacity="0" />
+        </radialGradient>
+    </defs>
+    <rect width="100" height="100" fill="#FFF"></rect>
+    <g>
+        <use href="#s" fill="#E90027" />
+        <use href="#s" fill="url(#g1)" />
+        <use href="#s" fill="url(#g2)" />
+        <use href="#s" fill="url(#g3)" />
+        <use href="#s" fill="url(#g4)" />
+        <use href="#s" fill="url(#g5)" />
+        <use href="#s" fill="url(#g6)" />
+    </g>
+</svg>

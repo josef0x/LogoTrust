@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" viewBox="0 0 120 120" baseProfile="tiny-ps">
+  <title>bimisvg_tiny_ps</title>
+  <g id="design">
+    <path d="M90.86,29.583h-60.7v60.7h60.7V29.583z M42.16,80.583l13.5-41.4h9.6l-13.4,41.4H42.16z    M69.06,80.583l-3.8-11.7l4.8-14.8l8.7,26.5H69.06z" fill="#231F20"/>
+    <path d="M0,0v120h120V0H0z M100.46,99.883h-80v-80h80V99.883z" fill="#231F20"/>
+  </g>
+</svg>

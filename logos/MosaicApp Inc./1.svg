@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mosaiclogo" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 88 88">
+  <title>Mosaic</title>
+  <path d="M34.6,78.4c5.1,5.1,13.3,5.1,18.4,0l5.3-5.3-14.5-14.5-14.5,14.5,5.3,5.3Z" fill="#f15a4f"/>
+  <rect x="48.1" y="48.2" width="20.5" height="20.5" transform="translate(-24.3 58.4) rotate(-45)" fill="#c25ecb"/>
+  <path d="M72.9,58.5l5.3-5.3c5.1-5.1,5.1-13.3,0-18.4l-5.3-5.3-14.5,14.5,14.5,14.5Z" fill="#067bbc"/>
+  <rect x="48.1" y="19.2" width="20.5" height="20.5" transform="translate(-3.7 49.9) rotate(-45)" fill="#1da4a2"/>
+  <rect x="33.5" y="33.7" width="20.5" height="20.5" transform="translate(-18.3 43.9) rotate(-45)" fill="#989f8f"/>
+  <rect x="19" y="48.2" width="20.5" height="20.5" transform="translate(-32.8 37.8) rotate(-45)" fill="#e98a1c"/>
+  <path d="M43.8,29.5l14.5-14.5-5.3-5.3c-5.1-5.1-13.3-5.1-18.4,0l-5.3,5.3,14.5,14.5Z" fill="#85cd94"/>
+  <rect x="19" y="19.2" width="20.5" height="20.5" transform="translate(-12.3 29.3) rotate(-45)" fill="#acca56"/>
+  <path d="M14.8,58.5l14.5-14.5-14.5-14.5-5.3,5.3c-5.1,5.1-5.1,13.3,0,18.4l5.3,5.3Z" fill="#e0bf53"/>
+</svg>

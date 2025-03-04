@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" id="dp-logo"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000" xml:space="preserve">
+    <title>Deutsche Post</title>
+    <path fill="url(#b)" d="M1000 0H0v1000h1000V0Z"/>
+    <path fill="#000" d="M391.7 660.1h89.4l-90.3 91.2h-89.4l90.3-91.2Zm-210.9 91.2h89.4l90.3-91.2h-89.4l-90.3 91.2Zm410.5-91.2h-89.4l90.3 91.2h89.4l-90.3-91.2Zm120.6 0h-89.4l90.3 91.2h89.4l-90.3-91.2Zm132.3-365C831.5 481 691.9 643.8 484.7 643.7c-234.4-.1-325-203.5-312.8-357.6l68.8-21.9c-11.2 87.7 16 151 34.8 180-22.3-124.1 71.5-224.5 189-224.6 105.6-.1 193 76.9 192.6 187.4 15.5-42.2 26.3-106.4 28.5-151.3l158.6 39.4ZM591.8 410.9c0-70-56.8-126.7-127-126.7-70.1 0-126.9 56.7-126.9 126.7s56.8 126.7 126.9 126.7c70.1 0 127-56.7 127-126.7Z"/>
+    <linearGradient id="b" x1="500" x2="500" y1="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4D8"/>
+      <stop offset=".08" stop-color="#FFE57F"/>
+      <stop offset=".281" stop-color="#FFD942"/>
+      <stop offset=".461" stop-color="#FFD012"/>
+      <stop offset=".55" stop-color="#FC0"/>
+      <stop offset="1" stop-color="#FC0"/>
+    </linearGradient>
+</svg>

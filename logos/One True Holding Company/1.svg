@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" version="1.2" baseProfile="tiny-ps" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+ <title>TrueAccord</title>
+ <desc>TrueAccord logo</desc>
+ <path d="M48 64H32V48h16V32h16v16c0 8.768-7.232 16-16 16Z" fill="#003D98"/>
+ <path d="M32 48H16V32c0-8.767 7.232-16 16-16h16v16H32v16Z" fill="#00A881"/>
+</svg>

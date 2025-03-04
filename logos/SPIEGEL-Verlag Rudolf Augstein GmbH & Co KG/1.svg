@@ -1,0 +1,6 @@
+<svg version="1.2" baseProfile="tiny-ps" width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>DER SPIEGEL</title>
+  <desc>Logo DER SPIEGEL</desc>
+  <path fill="#E64415" d="M0 0h512v512H0z"/>
+  <path d="M189.563 428.311c-21.071 0-37.563-16.664-37.563-37.943V308.15h67v62.773h73.65v-93.94H152V121.948C152 100.664 168.953 84 190.024 84H321.97c21.083 0 38.575 16.664 38.575 37.948l-1 66.864h-67.35v-47.424H219v79.132h142v169.848c0 21.279-17.492 37.943-38.569 37.943H189.563z" fill="#fff"/>
+</svg>

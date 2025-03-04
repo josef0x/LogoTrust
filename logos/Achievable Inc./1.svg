@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="400" height="400" viewBox="0 0 401 400" fill="none" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo of Achievable exam preparation</title>
+  <desc>Achievable's logo of a mountain-shaped data line adjacent to a half triangle</desc>
+  <rect width="400" height="400" transform="translate(0.5)" fill="white"/>
+  <g>
+    <path d="M127 263L137.5 245.5H321L264 162.5L274 145.5L355 263.5L127 263Z" fill="#393D48" stroke="#393D48"/>
+    <path d="M69.5 245.5L125 153L182.5 198L241 112.5" stroke="#15A5DF" stroke-width="16"/>
+    <path d="M140.5 153C140.5 161.837 133.337 169 124.5 169C115.663 169 108.5 161.837 108.5 153C108.5 144.163 115.663 137 124.5 137C133.337 137 140.5 144.163 140.5 153Z" fill="#15A5DF"/>
+    <circle cx="68.5" cy="245" r="20" fill="#15A5DF"/>
+    <circle cx="183.5" cy="198" r="16" fill="#15A5DF"/>
+    <circle cx="241.5" cy="113" r="20" fill="#15A5DF"/>
+  </g>
+  <defs/>
+</svg>

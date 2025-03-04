@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.2" viewBox="0 0 640 640" width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" baseProfile="tiny-ps">
+  <title>横浜銀行</title>
+  <defs id="defs2">
+    <linearGradient id="linear-gradient" x1="460.89999" y1="506.70001" x2="460.89999" y2="157.89999" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#80c1e6" id="stop1" />
+      <stop offset=".7" stop-color="#0083cd" id="stop2" />
+    </linearGradient>
+  </defs>
+  <g id="layer1">
+    <rect fill="#ffffff" id="rect10" width="640" height="640" x="0" y="0" />
+  </g>
+  <g id="g9" transform="matrix(1.719621,0,0,1.7196219,-588.89326,-261.5283)">
+    <path d="m 488.5,492.4 c 48,3.1 33.1,-231.9 34.6,-334.5 L 397.7,303.3 c 0,0 62.6,202.1 62.6,202.1 2.8,5.7 16.8,-7.3 28.2,-13 z" fill="url(#linear-gradient)" stroke-width="0" id="path2" />
+    <path d="m 592.6,506.6 c 7.7,6.1 62.8,-202 66.3,-203.3 L 533.5,157.9 c 1.4,103.4 -13.1,338.9 34.7,334.5 11.5,7.3 19.6,11.6 24.4,14.2 z" fill="#004d8f" stroke-width="0" id="path3" />
+  </g>
+</svg>

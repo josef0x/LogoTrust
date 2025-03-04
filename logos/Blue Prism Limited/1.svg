@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 500 500">
+<title>Blue Prism</title>
+<rect width="500" height="500" fill="#fff" stroke-width="0"/>
+<g>
+<polygon points="250 46.1 15 318 250 453.9 485 318 250 46.1" fill="#00abe6" stroke-width="0"/>
+<polygon points="15 318 250 46.1 250 453.9 15 318" fill="#66cdf0" stroke-width="0"/>
+</g>
+</svg>

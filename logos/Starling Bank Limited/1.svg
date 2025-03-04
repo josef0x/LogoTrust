@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" viewBox="0 0 200 200" baseProfile="tiny-ps">
+  <title>StarlingBank_tiny_ps</title>
+  <rect width="200" height="200" fill="#FFFFFF"/>
+  <path d="M200,100.001C200,155.23,155.23,200,100.001,200  S0,155.23,0,100.001S44.772,0,100.001,0S200,44.772,200,100.001" fill="#6935D3" fill-rule="evenodd"/>
+  <path d="M60,100v-5.54C60,60.019,88.017,32,122.464,32H128  v22.646h-5.536c-21.952,0-39.82,17.858-39.82,39.814V100H60" fill="#FFFFFF" fill-rule="evenodd"/>
+  <path d="M140,100v5.54C140,139.98,111.983,168,77.534,168  H72v-22.646h5.534c21.954,0,39.823-17.859,39.823-39.814V100H140" fill="#FFFFFF" fill-rule="evenodd"/>
+</svg>

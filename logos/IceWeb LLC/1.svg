@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 800">
+<title>IceWeb LLC</title>
+  <defs>
+    <linearGradient id="linear-gradient" x1="84.5" y1="614.3" x2="714.2" y2="614.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a6841"/>
+      <stop offset=".5" stop-color="#e3c236"/>
+      <stop offset="1" stop-color="#8a6841"/>
+    </linearGradient>
+  </defs>
+  <polygon points="196 354.8 336.5 247.2 267.7 102.2 210 344.1 196 354.8" fill="#a9d7e0" fill-rule="evenodd" stroke-width="0"/>
+  <polygon points="516.5 268.4 418 35.5 411.5 239.4 413 242.1 420.1 254.6 488.5 375.7 516.5 268.4 574.7 180.6 586.3 365.3 716.5 441 574.7 180.5 516.5 268.4" fill="#a9d7e0" fill-rule="evenodd" stroke-width="0"/>
+  <polygon points="83.5 441 267.7 102.2 210 344.1 196 354.8 196.3 355 196 354.8 83.5 441" fill="#275a8c" fill-rule="evenodd" stroke-width="0"/>
+  <polygon points="336.5 247.2 418 35.5 411.5 239.4 410.2 237.2 336.5 247.2" fill="#275a8c" fill-rule="evenodd" stroke-width="0"/>
+  <polygon points="586.3 365.3 574.7 180.6 516.5 268.4 488.5 375.7 488.5 375.7 488.5 375.7 490.3 378.9 555.9 441 586.3 365.3" fill="#275a8c" fill-rule="evenodd" stroke-width="0"/>
+  <polygon points="336.5 247.2 370 441 196 354.8 336.5 247.2" fill="#2e9bbd" fill-rule="evenodd" stroke-width="0"/>
+  <polygon points="488.5 375.7 488.5 375.7 490.3 378.9 555.9 441 370 441 488.5 375.7" fill="#2e9bbd" fill-rule="evenodd" stroke-width="0"/>
+  <path d="M575.6,464.2c-.3,10.7-3.4,92.7-34.5,161.1l82.3,46.6s87.2-82.4,90.8-207.7h-138.6s0,0,0,0h0ZM223.1,464.2c.3,10.7,3.4,92.7,34.5,161.1l-82.3,46.6s-87.2-82.4-90.8-207.7h138.6s0,0,0,0h0ZM195.2,690.6h0c69.6,60.5,152.6,70.8,152.6,70.8-40-35.7-79.9-110.2-79.9-110.2-24.8,9.1-72.7,39.4-72.7,39.4h0ZM292.7,642.2s46-15.1,94.5-15.7v138s-50.9-38.7-94.5-122.3h0ZM385.9,464.2h-137.4c1.5,84.8,32.1,152.6,32.1,152.6,47.8-13.9,105.3-16.3,105.3-16.3v-136.3h0ZM603.5,690.6h0c-69.6,60.5-152.6,70.8-152.6,70.8,40-35.7,79.9-110.2,79.9-110.2,24.8,9.1,72.7,39.4,72.7,39.4h0ZM506,642.2s-46-15.1-94.5-15.7v138s50.9-38.7,94.5-122.3h0ZM412.7,464.2h137.4c-1.5,84.8-32.1,152.6-32.1,152.6-47.8-13.9-105.3-16.3-105.3-16.3v-136.3Z" fill="url(#linear-gradient)" fill-rule="evenodd" stroke-width="0"/>
+  <path d="M370,441l-174-86.1-112.5,86.1h286.5l118.5-65.2h0l-78.3-138.6-73.7,10.1,33.5,193.7h0ZM555.9,441h160.6l-130.2-75.7-30.4,75.7Z" fill="#5ab8ce" fill-rule="evenodd" stroke-width="0"/>
+</svg>

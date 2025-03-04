@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 240 240" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <title>V-Valley</title>
+  <g>
+    <polygon fill="#64CCC9" points="120,106.4 198.75,57.95 191.43,48.43 48.57,48.43 41.25,57.95 &#x9;"/>
+    <polygon fill="#004F59" points="115.34,114.47 36.38,65.89 30,80.22 115.34,209.57 &#x9;"/>
+    <polygon fill="#00B398" points="203.62,65.89 124.66,114.47 124.66,209.57 210,80.22 &#x9;"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny-ps" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 600 600" xml:space="preserve">
+
+<title>NSlogo</title>
+
+<g id="Background">
+	<rect fill="#FFFFFF" width="600" height="600"/>
+</g>
+<g>
+	<polygon fill="#0B3B63" points="369.7,159.8 300.2,199.9 300.1,199.8 300,199.9 230.5,159.8 109.1,229.9 109.1,370.1 230.5,440.2 
+		300,400.1 300.1,400.2 300.2,400.1 369.7,440.2 491.1,370.1 491.1,229.9 	"/>
+	<g id="BIMI">
+		<g>
+			<polygon fill="#004670" points="491,229.9 491,370.1 369.6,440.2 300.1,400.1 352,370.1 352,229.9 300.1,199.9 369.6,159.8 			
+				"/>
+			<polygon fill="#0B3B63" points="352,229.8 352,370.2 300,400.2 248,370.2 248,229.8 300,199.8 			"/>
+			<polygon fill="#3FAAD8" points="299.9,199.9 248,229.9 248,370.1 299.9,400.1 230.4,440.2 109,370.1 109,229.9 230.4,159.8 			
+				"/>
+		</g>
+	</g>
+</g>
+</svg>

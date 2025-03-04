@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2 0 68 68">
+    <title>BlueAsset 1</title>
+    <g id="Layer_2">
+        <g id="Layer_1-2">
+            <g id="Layer_2-2">
+                <g id="Layer_1-2-2">
+					<linearGradient id="grad1" x1="0%" x2="0%" y1="0%" y2="100%">
+						<stop offset="0%" stop-color="#01a1fe" />
+						<stop offset="100%" stop-color="#0058ff" />
+					</linearGradient>
+                    <path d="M23.48,36.76C26.39,28.89,24.88,17,5.82,0c-.44,15-.6,26.2.89,33.37A105.47,105.47,0,0,0,0,45.22c7.61,3.56,16.86,7.68,21.59-2.52-2.19,6.74-.3,14.14,12,24.65,2-4.22,6.06-13.37,6.61-20.6A188.91,188.91,0,0,0,62.33,30.29C46.14,24.89,30,22.21,23.48,36.76Z" fill="url(#grad1)" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

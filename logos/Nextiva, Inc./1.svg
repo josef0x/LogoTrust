@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" viewBox="0 0 300 300" baseProfile="tiny-ps">
+  <title>nextiva_xbert_tiny_ps</title>
+  <path d="M300,300H0V0h300V300z" fill="#0B1029"/>
+  <g>
+    <polygon points="172.3,126.1 150,155.9 127.7,126.1 94.1,126.1 133.2,178.2 94.1,230.4 127.7,230.4    150,200.6 172.3,230.4 205.9,230.4 166.8,178.2 205.9,126.1  " fill="#FFFFFF"/>
+    <path d="M183.5,85.1c0,18.5-15,33.5-33.5,33.5s-33.5-15-33.5-33.5s15-33.5,33.5-33.5S183.5,66.6,183.5,85.1" fill="#FFB800"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="BIMI" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+<title>Invoca</title>
+<rect id="Background" fill="#02B388" width="1000" height="1000"/>
+<path id="Glyph" fill="#FFFFFF" d="M701.2,515.2c0,45-34,82.2-77.3,86.6l6,70.6l-111.4-70.1H384.6
+	c-47.2,0-85.8-39.2-85.8-87.1V402.9c0-47.9,38.6-87.1,85.8-87.1h230.8c47.3,0,85.8,39.2,85.8,87.1V515.2z M615.5,185.4H384.6
+	c-118.3,0-214.5,97.5-214.5,217.5v112.3c0,81.6,44.6,152.8,110.3,190L176.2,813.9l282.3-81.2h156.9c118.3,0,214.5-97.5,214.5-217.5
+	V402.9C830,282.9,733.7,185.4,615.5,185.4z"/>
+</svg>

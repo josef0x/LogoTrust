@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+    <title>Company title</title>
+    <g>
+        <g id="Layer_1">
+            <rect x="0" width="256" height="256" fill="#fff" />
+            <g>
+                <path d="M64,64v128h128V64H64ZM184.7,184.7h-113.5v-113.5h113.5v113.5Z" />
+                <path d="M152.2,153.6l-3.8-45.2-16.9,45.2h-8.1l-16.8-45.6-3.5,45.6h-6.9l4-51.1h11.7l15.7,42.7,16.1-42.7h11.2l4.9,51.1h-7.6Z" />
+            </g>
+        </g>
+    </g>
+    <g>
+    </g>
+</svg>

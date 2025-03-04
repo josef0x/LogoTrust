@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 144 144" xmlns="http://www.w3.org/2000/svg">
+  <title>Perry Technical Institute</title>
+  <rect fill="#00274D" width="144" height="144"/>
+  <g>
+    <ellipse fill="#00274D" cx="72.5" cy="71.8" rx="57.7" ry="57.7"/>
+    <g>
+      <g>
+        <path fill="#FFFFFF" d="M109.1,64.2c0,0,0.2-11.6-13-11.6H55.4v11.6H109.1z"/>
+        <path fill="#FFFFFF" d="M109.1,66.6H34.2v11.6h21.6V91h13.9V78.2h26.4C109.3,78.2,109.1,66.6,109.1,66.6z"/>
+        <rect x="71.6" y="80" fill="#FFFFFF" width="13.4" height="11.1"/>
+        <polygon fill="#FFFFFF" points="104.6,93.4 100.1,102.2 40.4,102.2 24.5,72.6 40.4,41.2 44.3,41.2 28.2,72.8 39.2,93.4    "/>
+        <polygon fill="#FFFFFF" points="42,50.1 46.4,41.3 106.2,41.3 122,70.9 106.2,102.3 102.2,102.3 118.3,70.7 107.3,50.1    "/>
+      </g>
+    </g>
+  </g>
+  <path fill="#FFFFFF" d="M72.5,19.5"/>
+</svg>

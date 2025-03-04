@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" version="1.2" baseProfile="tiny-ps">
+  <title>Dropbox</title>
+  <g>
+    <rect x="0" y="0" width="128" height="128" fill="#0061fe"></rect>
+  </g>
+  <g fill="#ffffff">
+    <path d="m43.4 30-20.3 12.8 20.3 12.8 20.3-12.8 20.3 12.7 20.3-12.8-20.3-12.7-20.3 12.8z"></path>
+    <path d="m43.4 81-20.3-12.7 20.3-12.8 20.3 12.8z"></path>
+    <path d="m63.7 68.3 20.3-12.8 20.3 12.8-20.3 12.7z"></path>
+    <path d="m63.7 98-20.3-12.8 20.3-12.8 20.3 12.8z"></path>
+  </g>
+</svg>

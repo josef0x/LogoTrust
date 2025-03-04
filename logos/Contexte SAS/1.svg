@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <title>Contexte</title>
+  <desc>Contexte Logo</desc>
+  <g>
+    <g id="contexte_symbole">
+      <path d="M0,0h500v500H0V0Z" fill="#fff" />
+      <path
+        d="M500,0H0v187.6c92.9-5.3,92.8,130.9,0,125.5v186.9h500v-120.4c-210.2,23.1-210-282.6,0-259.4V0ZM306.2,208.2v-83.3c-239.3-55.3-239.1,305.4,0,250v-83.3c-32.9,24.1-96.5,10.2-95.5-41.7-1-51.8,62.6-65.8,95.5-41.7Z"
+        fill="#120b37" fill-rule="evenodd" />
+      <path d="M500,198.9c-100.4-31.5-100.3,133.4,0,102v-102Z" fill="#120b37" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="WIEX" baseProfile="tiny-ps" version="1.2" viewBox="0 0 79 79">
+<title>Worldwide Independent Exchange UAB</title>
+  <path d="M32.3,35.3v15h3.6v-15h-3.6Z" fill="#081131" stroke-width="0"/>
+  <path d="M35.9,28.6h-3.7v3.7h3.7v-3.7Z" fill="#081131" stroke-width="0"/>
+  <path d="M64.1,35.3l-3.7,5h-.1l-3.7-5h-3.8l5.5,7.4-5.5,7.6h3.8l3.7-5.4h.1l3.7,5.4h3.8s-5.4-7.6-5.4-7.6l5.4-7.4h-3.8Z" fill="#081131" stroke-width="0"/>
+  <path d="M53.6,46.6v-3.6s0-.2,0-.2c0-4.2-3.6-7.4-7.5-7.4s-7.4,3.3-7.4,7.5,3.3,7.5,7.4,7.5v-3.7s7.5,0,7.5,0ZM42.5,42.9c0-2.1,1.6-3.8,3.7-3.8s3.8,1.8,3.8,3.7h-3.8s0,3.8,0,3.8c-2,0-3.7-1.7-3.7-3.7Z" fill="#081131" stroke-width="0"/>
+  <path d="M25.8,46.7h3.7v-11.3h-3.7v11.3Z" fill="#081131" stroke-width="0"/>
+  <path d="M22.1,42.8v-7.5h-3.7v7.5c0,4.2,3.5,7.5,7.1,7.5h.3v-3.7c-1.9,0-3.7-1.6-3.7-3.8Z" fill="#081131" stroke-width="0"/>
+  <path d="M14.8,42.8v-7.5h-3.7v7.5c0,4.2,3.5,7.5,7.1,7.5h1.1v-3.7c0,0-.8,0-.8,0-1.9,0-3.7-1.6-3.7-3.8h0Z" fill="#081131" stroke-width="0"/>
+</svg>

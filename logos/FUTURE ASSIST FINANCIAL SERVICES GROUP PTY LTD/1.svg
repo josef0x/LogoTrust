@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 viewBox="0 0 100 100" xml:space="preserve"><title>Future Assist</title>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="50" x2="100" y2="50">
+	<stop  offset="0" stop-color="#EEC31C" />
+	<stop  offset="1" stop-color="#EB9522"/>
+</linearGradient>
+<rect fill="url(#SVGID_1_)" width="100" height="100"/>
+<g>
+	<path fill="#FFFFFF" d="M51.6,43.8C39.4,49,31.1,59.5,31.1,71.6c0,5.2,1.6,10.1,4.3,14.4c-1.3-2.6-1.9-5.5-1.9-8.5
+		c0-12,11.1-21.9,25.7-24C57.3,50,54.8,46.6,51.6,43.8"/>
+	<path fill="#FFFFFF" d="M46.3,37.7C56.5,44,63,53.8,63,64.9c0,4.2-0.9,8.2-2.6,11.9c3.7-6,5.8-12.9,5.8-20.2c0-8.7-3-16.8-8-23.6
+		C53.8,34.1,49.8,35.7,46.3,37.7"/>
+	<path fill="#FFFFFF" d="M45.5,59.9c4.2,5.7,6,12.6,4.5,19.3c-0.7,3.1-2.1,6-4,8.5c3.8-3.9,6.5-8.7,7.8-14.2
+		c1.3-5.8,0.8-11.6-1.2-17C50,57.4,47.6,58.5,45.5,59.9"/>
+	<path fill="#FFFFFF" d="M33.5,49.8c1.4,0.7,2.7,1.5,4,2.4c2.4-2.7,5.2-5,8.4-6.9c-1.3-1.5-2.8-2.9-4.4-4.2
+		C38.2,43.6,35.5,46.5,33.5,49.8"/>
+	<path fill="#FFFFFF" d="M24.7,56c0,7.3,2.1,14.1,5.8,20.2c-1.7-3.7-2.6-7.7-2.6-11.9c0-17.3,15.9-31.5,36.6-33.8l10.9-18.2
+		C47.3,12.5,24.7,32,24.7,56"/>
+</g>
+</svg>

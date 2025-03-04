@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 viewBox="0 0 80 80" xml:space="preserve">
+<title>Cyberpuerta</title>
+<rect fill="#0066BB" width="80" height="80"/>
+<path fill="#FFFFFF" d="M56.7,17.6v44.9c2-1.2,3.3-3.3,3.3-5.8V23.3C60,20.9,58.7,18.7,56.7,17.6z"/>
+<path fill="#FFFFFF" d="M45.4,11.6l-20,4C22.2,16.2,20,19,20,22.1v35.7c0,3.2,2.2,5.9,5.4,6.5l20,4c4.1,0.8,8-2.3,8-6.5V18.1
+	C53.3,13.9,49.5,10.8,45.4,11.6z M43.3,43.3c-1.8,0-3.3-1.5-3.3-3.3s1.5-3.3,3.3-3.3s3.3,1.5,3.3,3.3S45.2,43.3,43.3,43.3z"/>
+</svg>

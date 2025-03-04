@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 850 850" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+  <title>RENAULT s.a.s</title>
+  <rect width="850" height="850" fill="#FFFFFF"/>
+	<g id="Emblem" transform="matrix(1.25303,0,0,1.25303,-23.9606,-107.788)">
+	    <path d="M488.3,425.2L336.6,708.7L293.3,708.7L141.7,425.2L293.3,141.7L336.6,141.7L185.1,425.2L315,668.2L444.9,425.2L369.1,283.5L390.8,243L488.3,425.2ZM423.3,141.7L380,141.7L228.4,425.2L325.9,607.4L347.6,566.9L271.8,425.1L401.7,182.1L531.6,425.1L380,708.7L423.3,708.7L574.9,425.2L423.3,141.7Z" fill-rule="nonzero"/>
+    </g>
+</svg>

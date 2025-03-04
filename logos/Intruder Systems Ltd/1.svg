@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="logomark" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 280 280">
+  <title>Intruder Systems Ltd</title>
+  <g>
+    <rect x="0" y="0" width="280" height="280" fill="#FFFFFF" stroke-width="0"/>
+    <rect x="81.6" y="44.8" width="29.2" height="14.7" fill="#fec400" stroke-width="0"/>
+    <rect x="169.3" y="44.8" width="29.4" height="14.7" fill="#fec400" stroke-width="0"/>
+    <rect x="52.4" y="220.7" width="14.8" height="14.7" fill="#fec400" stroke-width="0"/>
+    <rect x="37.6" y="206" width="14.8" height="14.7" fill="#fec400" stroke-width="0"/>
+    <rect x="155.2" y="191" width="14.8" height="14.7" fill="#fec400" stroke-width="0"/>
+    <rect x="213" y="220.5" width="14.8" height="14.7" fill="#fec400" stroke-width="0"/>
+    <rect x="227.8" y="205.7" width="14.8" height="14.7" fill="#fec400" stroke-width="0"/>
+    <path d="M227.7,205.7v-29.4h-14.5v-58.5h14.6v-43.7h-14.2v-14.6h-14.8v14.6h0v14.4h-14.7v-14.5h-88.3v14.7h-14.5v-29.1h-14.8v14.5h-14.4v43.7h14.7v30h.1v28.7h-14.4v14.8h0v14.7h0c0,.1,28.7.1,28.7.1v14.4h14.8v-14.5h0v-14.7h-14.6v-14.8h29.3v14.5h14.8v-14.5h14.7v14.6h-14.7v14.7h14.8v-14.6h14.7v-14.6h43.8v14.8h-14.7v14.5h0v14.7h14.8v-14.5h0v-.3h28.9-.1ZM124.5,103.3v14.8h-13.5v15h13.3v14.3h-28.3v-29.4h15.3v-14.7h13.3-.1ZM154.8,147.4v-14.4h14.5v-15h-14.3v-14.7h14.3v14.7h14.8v29.4s-29.3,0-29.3,0Z" fill="#fec400" stroke-width="0"/>
+  </g>
+</svg>

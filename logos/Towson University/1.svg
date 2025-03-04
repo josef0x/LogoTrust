@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 600 600" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <title>Towson University</title>
+  <rect x="-6.1" y="-6" fill="#878688" width="621.2" height="612"/>
+  <g>
+    <path fill="#FEC00F" d="M438.2,173.2v174.5c0,27-11.2,38-37.5,38s-37.5-11-37.5-38V223.2l-75-50v176.4&#xA;&#x9;&#x9;c0,95.9,86.1,103.4,112.5,103.4s112.4-7.5,112.4-103.4V223.2L438.2,173.2L438.2,173.2z"/>
+    <polygon fill="#FFFFFF" points="63.4,173.2 63.4,238.2 138.4,238.2 138.4,403 213.3,453 213.3,238.2 288.3,238.2 288.3,173.2 &#x9;"/>
+    <polygon fill="#D8D9DA" points="288.3,173.2 288.3,238.2 260.4,238.2 &#x9;"/>
+  </g>
+</svg>

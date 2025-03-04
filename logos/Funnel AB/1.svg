@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>Funnel</title>
+  <rect width="120" height="120" fill="white"/>
+  <path d="M100 20.0002H73.3333V46.6669H100V20.0002Z" fill="#013F33"/>
+  <path d="M46.6667 20H20V100H46.6667V20Z" fill="#013F33"/>
+  <path d="M60 73C67.1797 73 73 67.1797 73 60C73 52.8203 67.1797 47 60 47C52.8203 47 47 52.8203 47 60C47 67.1797 52.8203 73 60 73Z" fill="#013F33"/>
+</svg>

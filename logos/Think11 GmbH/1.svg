@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2" viewBox="0 0 77.7 70.6">
+  <title>Think11</title>
+  <desc>Think11</desc>
+  <path d="M.7.7v69.2h76.4V.7H.7ZM26.3,14.1l-12.4-.2,3.7-5.8h8.7v5.9ZM35.1,62.4h-8.6v-7.3h1.5V8.1h7.2v54.3ZM51.3,62.4h-8.6V8.1h7.2v47h1.5v7.3ZM51.4,14.1v-5.9h8.7l3.7,5.8-12.4.2Z" fill="#e0203d"/>
+  <g>
+    <g>
+      <path d="M104.6,8.1l-3.7,5.8,12.4.2v-5.9h-8.7Z" fill="#e0203d"/>
+      <polygon points="122.1 8.1 122.1 62.4 113.4 62.4 113.4 55.1 114.9 55.1 114.9 8.1 122.1 8.1" fill="#e0203d"/>
+    </g>
+    <g>
+      <path d="M138.4,8.1v5.9l12.4-.2-3.7-5.8h-8.7Z" fill="#e0203d"/>
+      <polygon points="129.7 8.1 129.7 62.4 138.3 62.4 138.3 55.1 136.8 55.1 136.8 8.1 129.7 8.1" fill="#e0203d"/>
+    </g>
+  </g>
+</svg>

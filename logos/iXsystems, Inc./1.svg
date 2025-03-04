@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 100 100" xml:space="preserve">
+<title>iXsystems, Inc</title>
+<g>
+	<g>
+		<polygon fill="#31BEEC" points="100,63.2 100,41.9 54.4,68.2 54.4,89.5 		"/>
+		<path fill="#0095D5" d="M45.7,89.5V68.2L20.7,53.8c0,0-0.1,0-0.1,0L0,41.9v21.3L45.7,89.5L45.7,89.5z"/>
+		<polygon fill="#AEADAE" points="68.5,50 50,39.3 31.5,50 50,60.7 		"/>
+		<polygon fill="#0095D5" points="54.4,31.8 77.2,45 95.7,34.3 54.4,10.5 54.4,10.5 		"/>
+		<polygon fill="#31BEEC" points="45.7,31.8 45.7,10.5 45.6,10.5 4.3,34.3 22.8,45 		"/>
+	</g>
+</g>
+</svg>

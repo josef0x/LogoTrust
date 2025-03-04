@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 249 249" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <title>Stack Construction Technologies Inc</title>
+  <g>
+    <g>
+      <path fill-rule="evenodd" fill="#06643E" d="M36,0.6h177c19.6,0,35.4,15.8,35.4,35.4v177c0,19.6-15.8,35.4-35.4,35.4H36&#xD;&#xA;&#x9;&#x9;&#x9;C16.4,248.3,0.6,232.5,0.6,213V36C0.6,16.4,16.4,0.6,36,0.6L36,0.6z"/>
+      <path fill-rule="evenodd" fill="#BABABA" d="M198.6,123L50.3,77.5v48.8l148.3,45.5V123z"/>
+      <path fill-rule="evenodd" fill="#FFFFFF" d="M50.3,170.6l148.3-47.8v48.8L50.3,219.3V170.6z"/>
+      <path fill-rule="evenodd" fill="#FFFFFF" d="M50.3,77.4l148.3-47.8v48.8L50.3,126.2V77.4z"/>
+    </g>
+  </g>
+</svg>

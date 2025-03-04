@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50" xml:space="preserve">
+<title>Zone Media OÜ</title>
+<g>
+	<rect fill="#EC0009" width="50" height="50"></rect>
+	<g>
+		<rect x="25.1" y="23.4" transform="matrix(0.883 -0.4694 0.4694 0.883 -12.2762 16.7602)" fill="#FFFFFF" width="4.8" height="19.2"></rect>
+		<rect x="11.4" y="31.4" transform="matrix(0.9816 -0.1908 0.1908 0.9816 -6.1482 3.8597)" fill="#FFFFFF" width="11.2" height="4.8"></rect>
+		<rect x="23.4" y="7.8" transform="matrix(0.1908 -0.9816 0.9816 0.1908 1.4062 41.3762)" fill="#FFFFFF" width="4.8" height="24.1"></rect>
+		<circle fill="#FFFFFF" cx="27.4" cy="11.5" r="4.2"></circle>
+	</g>
+</g>
+</svg>

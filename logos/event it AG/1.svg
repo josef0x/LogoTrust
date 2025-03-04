@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" width="90mm" height="90mm" viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg">
+<title>event it AG</title>
+ <g transform="translate(-35.251 -45.641)">
+  <path class="fil0" d="m35.251 135.64h18.205v-90h-18.205z" fill="#88BD2F"/>
+  <path class="fil1" d="m77.127 135.64h17.571v-90h-17.571z" fill="#E5136C"/>
+  <path class="fil2" d="m110.22 135.64h15.03v-90h-15.03z" fill="#00A0E3"/>
+  <path class="fil3" d="m65.543 135.64h7.5104v-90h-7.5104z" fill="#00609B"/>
+  <path class="fil4" d="m98.769 135.64h7.2667v-90h-7.2667z" fill="#CA2127"/>
+  <path class="fil5" d="m57.464 135.64h4.0728v-90h-4.0728z" fill="#EF7F1A"/>
+ </g>
+</svg>

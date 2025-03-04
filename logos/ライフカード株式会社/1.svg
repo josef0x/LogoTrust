@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  version="1.2"
+  baseProfile="tiny-ps"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 300 300">
+<title>ライフカード</title>
+  <rect width="300" height="300" fill="#fff" stroke-width="0"/>
+  <g>
+    <path d="M200.1,62.6h-100.2c-15.8,0-29.3,9.9-34.7,23.7h22.4v110.3h81.1v22.8h-100.7c6.5,10.9,18.4,18.2,32,18.2h100.2c20.7,0,37.4-16.7,37.4-37.4v-100.2c0-20.6-16.7-37.4-37.4-37.4h-.1Z" fill="#000" stroke-width="0"/>
+    <path d="M200.1,237.5h-100.2c-20.7,0-37.4-16.7-37.4-37.4v-100.2c0-20.6,16.7-37.4,37.4-37.4h100.2c20.7,0,37.4,16.7,37.4,37.4v100.2c0,20.7-16.7,37.4-37.4,37.4h0Z" fill="none" stroke-width="0"/>
+  </g>
+</svg>

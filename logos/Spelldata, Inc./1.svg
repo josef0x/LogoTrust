@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.2"
+	baseProfile="tiny-ps"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 300 300"
+	xml:space="preserve">
+	<title>Spelldata</title>
+    <linearGradient id="linear-gradient">
+		<stop offset="0" stop-color="#040000" />
+		<stop offset="0" stop-color="#c51045" />
+		<stop offset="1" stop-color="#2e3c94" />
+		<stop offset="1" stop-color="#040000" />
+    </linearGradient>
+	<g>
+		<path
+		   d="M150.7,281a11.21,11.21,0,0,1-5.78-1.61L8.45,197.4a11.23,11.23,0,0,1-2.72-17L89.41,83.55a11.23,11.23,0,0,1,17,14.69L31.45,185l108,64.9V34.17a11.24,11.24,0,0,1,19.62-7.47L293.88,178.06a11.23,11.23,0,0,1-2.39,17l-81.71,51.67a11.23,11.23,0,0,1-12-19l70.52-44.59L161.93,63.68V269.77A11.24,11.24,0,0,1,150.7,281Z"
+		   fill="url(#linear-gradient)"/>
+	</g>
+</svg>

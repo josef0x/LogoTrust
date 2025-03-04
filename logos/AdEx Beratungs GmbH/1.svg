@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" viewBox="0 0 500 500" xml:space="preserve" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <g>
+    <rect class="st0" width="500" height="500" fill-rule="evenodd" fill="none"/>
+    <g>
+      <polygon class="st1" points="310.55,216.52 374.84,131.91 347.24,131.91 297.46,197.04 310.55,216.52 &#x9;&#x9;" fill-rule="evenodd" fill="#10325E"/>
+      <path class="st2" d="M225.14,131.91h-49.5l79.19,117.74l-39.94,51.03c-17.08,21.73-43.07,34.57-70.7,34.93h-32.02l-18.05,23.61&#xD;&#xA;&#x9;&#x9;&#x9;h58.42c28.33-0.12,55.05-13.17,72.56-35.44l43.05-54.88l60.91,90.32h49.17L225.14,131.91z" fill-rule="evenodd" fill="#D9D9D9"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 146 146" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <title>VALOR MANAGEMENT LLC</title>
+  <rect fill="#FFFFFF" width="146" height="146"/>
+  <g>
+    <g id="Layer_1_1_">
+      <g>
+        <path fill="#0043ED" d="M127.2,50.5v9.2l-33,13.5l33,13.7v9.6l-53.3-23C73.9,73.5,127.2,50.5,127.2,50.5z"/>
+        <path fill="#0043ED" d="M72.5,73.5l-53.3,23v-9.6l33-13.7l-33-13.5v-9.2L72.5,73.5z"/>
+        <path fill="#0043ED" d="M96.2,127.5H87l-13.5-33l-13.7,33h-9.6l23-53.3L96.2,127.5z"/>
+        <path fill="#0043ED" d="M73.2,72.8l-23-53.3h9.6l13.7,33l13.5-33h9.2C96.2,19.5,73.2,72.8,73.2,72.8z"/>
+      </g>
+      <path d="M107.8,126.9 M107.3,126.9"/>
+    </g>
+  </g>
+</svg>

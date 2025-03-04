@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" fill="white" version="1.2" baseProfile="tiny-ps">
+<title>Sure, Inc.</title>
+    <g transform="translate(74 , 40)">
+        <path
+            d="M227.464 36.6133L50.6792 213.398C1.86147 164.58 1.86147 85.4311 50.6792 36.6133C99.497 -12.2044 178.646 -12.2044 227.464 36.6133Z"
+            fill="#174AD6" />
+        <path
+            d="M176.785 86.6019L0 263.387C48.8178 312.204 127.967 312.204 176.785 263.387C225.602 214.569 225.602 135.42 176.785 86.6019Z"
+            fill="url(#paint0_linear_3029_272)" />
+        <defs>
+            <linearGradient id="paint0_linear_3029_272" x1="161.699" y1="50.4456" x2="288.164" y2="302.833" gradientUnits="userSpaceOnUse">
+                <stop />
+                <stop offset="0.0220404" stop-color="#020611" />
+                <stop offset="0.1025" stop-color="#0A1B49" />
+                <stop offset="0.1833" stop-color="#102D79" />
+                <stop offset="0.2628" stop-color="#163BA1" />
+                <stop offset="0.3406" stop-color="#1A46BF" />
+                <stop offset="0.4164" stop-color="#1D4FD5" />
+                <stop offset="0.4892" stop-color="#1E53E3" />
+                <stop offset="0.5555" stop-color="#1F55E7" />
+            </linearGradient>
+        </defs>
+    </g>
+</svg>

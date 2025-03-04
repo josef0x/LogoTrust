@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny-ps" version="1.2" viewBox="0 0 512 512">
+  <title>Zacks Investment Research</title>
+  <defs>
+    <linearGradient id="linear-gradient" x1="54.69" y1="80.76" x2="261.06" y2="347.65" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#118b27"/>
+      <stop offset=".34" stop-color="#15bb30"/>
+      <stop offset=".8" stop-color="#15bb30"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="174.69" y1="182.61" x2="248.17" y2="237.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#41c441"/>
+      <stop offset=".06" stop-color="#41c441"/>
+      <stop offset=".45" stop-color="#41c441"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="140.95" y1="160.48" x2="296.95" y2="268.71" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#007302"/>
+      <stop offset=".2" stop-color="#108712"/>
+      <stop offset=".35" stop-color="#31b132"/>
+      <stop offset=".48" stop-color="#41c93b"/>
+      <stop offset=".49" stop-color="#3bcb37"/>
+      <stop offset=".53" stop-color="#2fd12e"/>
+      <stop offset=".59" stop-color="#28d42a"/>
+      <stop offset=".74" stop-color="#27d529"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="448.33" y1="400.01" x2="392.54" y2="342.23" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#004406"/>
+      <stop offset=".35" stop-color="#04570d"/>
+      <stop offset=".72" stop-color="#0f8922"/>
+      <stop offset="1" stop-color="#19b434"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="271.23" y1="262.51" x2="342.64" y2="305.42" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#00ed00"/>
+      <stop offset=".3" stop-color="#03bf05"/>
+      <stop offset=".47" stop-color="#078e0c"/>
+      <stop offset=".63" stop-color="#0a6811"/>
+      <stop offset=".77" stop-color="#0d4c15"/>
+      <stop offset=".9" stop-color="#0e3b17"/>
+      <stop offset="1" stop-color="#0f3618"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="276.81" y1="279.74" x2="378.96" y2="394.48" gradientUnits="userSpaceOnUse">
+      <stop offset=".39" stop-color="#21c03f"/>
+      <stop offset=".72" stop-color="#005c0a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient6" x1="263.17" y1="276.15" x2="292.69" y2="300.92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#118d27"/>
+      <stop offset=".29" stop-color="#13a82c"/>
+      <stop offset=".55" stop-color="#15bb30"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient7" x1="161.83" y1="225.92" x2="263.11" y2="326.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#006837"/>
+      <stop offset=".08" stop-color="#027036"/>
+      <stop offset=".21" stop-color="#088734"/>
+      <stop offset=".37" stop-color="#11ad31"/>
+      <stop offset=".42" stop-color="#15bb30"/>
+      <stop offset=".46" stop-color="#1ebf3a" stop-opacity=".98"/>
+      <stop offset=".52" stop-color="#39ca56" stop-opacity=".93"/>
+      <stop offset=".6" stop-color="#65dc85" stop-opacity=".84"/>
+      <stop offset=".63" stop-color="#7ce69d" stop-opacity=".8"/>
+      <stop offset=".64" stop-color="#7fe69f" stop-opacity=".81"/>
+      <stop offset=".69" stop-color="#a6eebc" stop-opacity=".86"/>
+      <stop offset=".73" stop-color="#c6f4d4" stop-opacity=".91"/>
+      <stop offset=".78" stop-color="#dff8e7" stop-opacity=".95"/>
+      <stop offset=".83" stop-color="#f0fcf4" stop-opacity=".98"/>
+      <stop offset=".88" stop-color="#fbfefc" stop-opacity=".99"/>
+      <stop offset=".92" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient8" x1="120.7" y1="238.16" x2="239.13" y2="344.79" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#003805"/>
+      <stop offset=".3" stop-color="#04550e"/>
+      <stop offset=".63" stop-color="#10a027"/>
+      <stop offset=".74" stop-color="#15bb30"/>
+      <stop offset=".81" stop-color="#08d813"/>
+      <stop offset=".86" stop-color="#00ed00"/>
+    </linearGradient>
+  </defs>
+  <g id="bg">
+    <rect id="bg-w" width="512" height="512" fill="#fff"/>
+  </g>
+  <g id="Zacks">
+    <polygon id="b2" points="204 99 305 99 465 375.11 356.96 375.11 46 375 204 99" fill="url(#linear-gradient)"/>
+    <g id="p13">
+      <path d="M304.85,99.11h-100.64l-114.36,201c97.85-47.23,187.54-108.69,220-192l-5-9Z" fill="url(#linear-gradient1)"/>
+      <path d="M304.85,99.11h-100.64l-114.36,201c97.85-47.23,187.54-108.69,220-192l-5-9Z" fill="url(#linear-gradient2)"/>
+    </g>
+    <polyline id="p12" points="463.36 375.13 417.63 296.33 354.89 375.13" fill="url(#linear-gradient3)"/>
+    <path id="p11" d="M357,190l42.88,75.28c-44.88,29.72-157.88,103.72-157.88,103.72,57-82,84.32-124.79,115-179Z" fill="url(#linear-gradient4)" fill-opacity=".62"/>
+    <polygon id="p10" points="400 265 417.85 297.11 354.85 375.11 232.85 375.11 400 265" fill="#009245"/>
+    <polygon id="p9" points="227 375 402.85 270.11 411.85 287.11 355.85 375.11 227 375" fill="url(#linear-gradient5)"/>
+    <path id="p7" d="M171.46,375l27.54-.11c42.72-43.28,130.21-132.02,158.85-184.89-2.86-5.36-9.91-15.8-12.85-21,0,0-124,162.73-173.54,206Z" fill="url(#linear-gradient6)"/>
+    <path id="p6" d="M46,376s210-112,304.19-198.42l-40.19-69.58s-22.76,83.11-186.36,174.53c-.88.49-27.76,25.98-28.64,26.47" fill="url(#linear-gradient7)"/>
+    <path id="p5" d="M48,375c95.35-53.72,182-101,265-166-14.11,22.21-99,124-142.89,166.13l-122.11-.13Z" fill="url(#linear-gradient8)"/>
+    <path id="p4" d="M296.85,99.11c-1.85,13.89-12.85,55.89-55.85,100.89,0,0,56-49,69-92l-5.15-8.89h-8Z" fill="#2baf3d"/>
+    <path id="p3" d="M357,190l-6-12c-45.85,95.89-123.62,165.14-156.15,197.11h15c38.29-43.56,111.15-120.11,147.15-185.11Z" fill="#167705"/>
+    <path id="p2" d="M210,375c39.69-45.89,101.47-129.2,140.35-174.58-23.45,43.48-79.11,128.36-108.35,168.58,0,0-10,6-10,6" fill="#05450c"/>
+    <path id="p1" d="M90,300s19-9,33-17c-12,12-63,76-76,92" fill="#0b7627"/>
+    <polygon id="b1" points="255.06 14.11 213.41 86.11 296.64 86.11 255.06 14.11" fill="#44b649"/>
+    <polygon id="P1" points="255.06 15.44 226.85 64.11 271.85 44.11 255.06 15.44" fill="#028f46"/>
+    <polygon id="O1" points="203.85 99.11 305.11 99.11 464.85 375.5 45.85 375.5 203.85 99.11" fill="none" stroke="#30b44a" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

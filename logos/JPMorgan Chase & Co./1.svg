@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 46">
+<title>JPMorgan Chase &amp; Co.</title>
+<rect y="0" fill="#FFFFFF" width="46" height="46" />
+<g>
+	<g>
+		<path fill="#2060AD" d="M17.3,2.7c-0.8,0-1.4,0.6-1.4,1.4V14h26.2l-12-11.3H17.3z" />
+		<path fill="#2060AD" d="M43.1,17.1c0-0.8-0.6-1.4-1.4-1.4h-9.9v26.2l11.3-12V17.1z" />
+		<path fill="#2060AD" d="M28.7,42.8c0.8,0,1.4-0.6,1.4-1.4v-9.9H3.9l12,11.4L28.7,42.8z" />
+		<path fill="#2060AD" d="M2.9,28.5c0,0.8,0.6,1.4,1.4,1.4h9.9V3.7L2.9,15.6V28.5z" />
+	</g>
+</g>
+</svg>

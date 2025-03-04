@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <g transform="matrix(1 0 0 1 540 540)" id="item1"/>
+  <g transform="matrix(1 0 0 1 540 540)" id="item2">
+    <rect vector-effect="non-scaling-stroke" x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" stroke="none" stroke-width="1" stroke-dasharray="none" stroke-linecap="butt" stroke-dashoffset="0" stroke-linejoin="miter" stroke-miterlimit="4" fill="rgb(255,255,255)" fill-rule="nonzero"/>
+  </g>
+  <g transform="matrix(2.69 0 0 2.69 540 540)">
+    <g vector-effect="non-scaling-stroke">
+      <g transform="matrix(1 0 0 1 36.66 2.65)">
+        <path vector-effect="non-scaling-stroke" transform=" translate(-301.23, -302.53)" d="M 249.71 326.55 C 249.71 337.82 257.67 345.07 266.73 345.07 C 272.58000000000004 345.07 280.05 341.73 283.32 340.06 L 352.74 304.74 L 352.74 259.99 L 271.34000000000003 301.3 C 257.95000000000005 307.59000000000003 249.71000000000004 312.76 249.71000000000004 326.55 Z" stroke-linecap="butt" stroke="none" stroke-width="1" stroke-dasharray="none" stroke-dashoffset="0" stroke-linejoin="miter" stroke-miterlimit="4" fill="rgb(0,0,0)" fill-rule="nonzero"/>
+      </g>
+      <g transform="matrix(1 0 0 1 0 0)">
+        <path vector-effect="non-scaling-stroke" transform=" translate(-264.56, -299.88)" d="M 254.33 225.8 C 206.69 250.10000000000002 176.37 280.43 176.37 337.24 C 176.37 390 218.74 423.62 261.59000000000003 423.62 C 277.55 423.62 291.96000000000004 420.18 307.42 411.56 L 352.74 388.55 L 352.74 343.78000000000003 L 293.86 373.39000000000004 C 276.85 381.38000000000005 269.29 381.57000000000005 261.59000000000003 381.57000000000005 C 239.31000000000003 381.57000000000005 217.93000000000004 363.13000000000005 217.93000000000004 333.05000000000007 C 217.93000000000004 294.1000000000001 242.40000000000003 276.46000000000004 274.44000000000005 260.49000000000007 L 352.75000000000006 220.86000000000007 L 352.75000000000006 176.13000000000008 L 254.34000000000006 225.80000000000007 Z" stroke-linecap="butt" stroke="none" stroke-width="1" stroke-dasharray="none" stroke-dashoffset="0" stroke-linejoin="miter" stroke-miterlimit="4" fill="rgb(0,0,0)" fill-rule="nonzero"/>
+      </g>
+    </g>
+  </g>
+</svg>

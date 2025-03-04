@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny-ps" version="1.2"
+  viewBox="0 0 250 250">
+  <title>Horze International GmbH</title>
+  <rect width="250" height="250" fill="#c74837" stroke-width="0" />
+  <g>
+    <path
+      d="M76.3,55.2l-7.2-7.1v54h5.5c3.9,0,7-3.1,7-7v-8.7l7-7h0s0,108.5,0,108.5h21.9v-110.7c0-12.1-9.8-21.9-21.9-21.9h-12.3Z"
+      fill="#fff" stroke-width="0" />
+    <path
+      d="M139.6,102.3c-14.1,0-25.8,7.9-29.1,24.9,3.9-9.4,11.1-13.1,19-13.1s15.5,5.9,15.5,21.9v51.9h21.9v-53.1c0-17.5-5.9-32.5-27.3-32.5"
+      fill="#fff" stroke-width="0" />
+  </g>
+</svg>

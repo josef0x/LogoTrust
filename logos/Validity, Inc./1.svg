@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="1000" height="1000" viewBox="0 0 1000 1000" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg">
+  <title>Validity</title>
+  <defs></defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff" />
+  <g transform="matrix(3.246 0 0 3.2809 500.0044 500.0004)">
+    <g vector-effect="non-scaling-stroke">
+		  <g transform="matrix(1 0 0 1 61.1708 -15.67)" id="Layer_1-2">
+        <path transform=" translate(-167.2158, -80.33)" d="M 180.66 0 h 0 L 128.72 90 a 47.17 47.17 0 0 0 0 47.18 l 13.55 23.48 L 207.83 47.07 A 31.38 31.38 0 0 0 180.66 0 Z" stroke-linecap="round" stroke=" none" fill="#1996ff" />
+      </g>
+		  <g transform="matrix(1 0 0 1 -24.747 -72.465)" id="Layer_1-2">
+        <path transform=" translate(-81.2979, -23.535)" d="M 149 23.48 L 162.55 0 H 31.43 A 31.38 31.38 0 0 0 4.25 47.07 H 108.13 A 47.19 47.19 0 0 0 149 23.48 Z" stroke-linecap="round" stroke=" none" fill="#43c462" />
+      </g>
+		  <g transform="matrix(1 0 0 1 -32.785 31.3736)" id="Layer_1-2">
+        <path transform=" translate(-73.26, -127.3736)" d="M 133.22 176.31 l -51.94 -90 A 47.19 47.19 0 0 0 40.42 62.75 H 13.3 L 78.86 176.31 a 31.39 31.39 0 0 0 54.36 0 Z" stroke-linecap="round" stroke=" none" fill="#1951c4" />
+      </g>
+    </g>
+  </g>
+</svg>

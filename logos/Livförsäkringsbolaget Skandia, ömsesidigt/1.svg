@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" viewBox="0 0 70 70" baseProfile="tiny-ps">
+  <title>Skandia</title>
+  <desc>Skandia logo</desc>
+  <rect width="70" height="70" fill="#009776"/>
+  <g>
+    <g>
+      <path d="M35,32.1c6.7,0,12.2-4.9,12.2-11s-5.4-11-12.2-11c-6.7,0-12.2,4.9-12.2,11S28.3,32.1,35,32.1z     M35,37.9c-6.7,0-12.2,4.9-12.2,11c0,6,5.4,11,12.2,11c6.7,0,12.2-4.9,12.2-11S41.7,37.9,35,37.9z" fill="#FFFFFF"/>
+    </g>
+  </g>
+</svg>
